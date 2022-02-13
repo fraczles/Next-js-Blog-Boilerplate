@@ -1,5 +1,5 @@
 export const AppConfig = {
-  site_name: 'Starter',
+  site_name: 'Blog',
   title: 'Alex Fraczak',
   description: 'Thought dumps',
   url: 'https://example.com',
